@@ -107,9 +107,6 @@ def create_pie_chart(column, title):
 if add_selectbox == "Dashboard":
     col1, col2, col3, col4 = st.columns(4)
     with col1:
-        # status_list = list(data.Status.unique())[::-1]
-        # status_list.sort()
-        # status_list.insert(0,"None")
         status_list = ['None', 'Dropout', 'Not Dropout']
         selected_status = st.selectbox('Select status', (status_list), key='initial_status')
         if selected_status == 'Dropout':
