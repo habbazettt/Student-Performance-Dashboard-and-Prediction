@@ -59,13 +59,13 @@ Di bagian bawah judul terdapat keterangan atau card yang terdiri dari dropout ra
 6. Diagram pie tuition fees up to date yang terdiri dari true (benar) dan false (salah), menunjukkan apakah siswa tersebut dibebani biaya pendidikan terbaru atau tidak.
 7. Histogram dari umur ketika mendaftar (age_at_enrollment)
 
-<!-- LINK -->
+<https://student-performance-dashboard-and-prediction-ihtfjw3eieyqvabc6.streamlit.app/>
 
 ## Menjalankan Sistem Machine Learning
 
 Langkah-langkah menggunakan sistem machine learning berbasis random forest adalah sebagai berikut.
 
-<!-- 1. Membuka Streamlit -->
+1. Membuka Streamlit <https://student-performance-dashboard-and-prediction-ihtfjw3eieyqvabc6.streamlit.app/>
 
 2. Memilih "Prediction" pada taskbar di sisi kiri.
 
